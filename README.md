@@ -33,7 +33,7 @@ To start this Ruby web application, type `shotgun` in your terminal within the r
 == Shotgun/Thin on http://159.203.88.6:30006/
 Thin web server (v1.6.3 codename Protein Powder)
 Maximum connections set to 1024
-Listening on 159.203.88.6:30006, CTRL+C to stop
+Listening on 159.203.88.6:30006, CTRL+C to stop 
 ```
 
 Given the above output, copying and pasting `http://159.203.88.6:30006/` into your web browser would take you to your running application.
